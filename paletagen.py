@@ -4,7 +4,7 @@ rg2: 0=hojas"""
 
 def paletacolor(config1, config2):
     import random
-    import colorkit as ck
+    import ColorMixer as ck
 
     primercolor = "#ff0000"
     segundocolor = "#ffff00"
