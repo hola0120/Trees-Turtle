@@ -988,12 +988,10 @@ frsentido= random.randint(franguloA, franguloB)
 frpose=[-250, -180]
 fruto(frsentido, frgrosor*3,frradio*3, frpaletacolor,frpose,frconfig)
 
+print(semillaconstante)
 
 v.update()
 turtle.done()
 
 #nota: fl= Flor, fr= Fruto, tl = Tallo, r1 = Ramificación Etapa 1, r2= Ramificación Etapa 2, r3= Ramificación Etapa 3, hj= Hoja, rz= Sistema de Raíces
 #añadir parametro de colores, raices, nudos y yemas
-
-
-print(semillaconstante)
