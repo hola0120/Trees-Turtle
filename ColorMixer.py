@@ -1,4 +1,4 @@
-"""ColorKit es útil en la manipulación de colores,
+"""ColorMixer es útil en la manipulación de colores,
 aunque de momento es para cubrir mis necesidades, en el futuro añadiré mas cositas."""
 
 
